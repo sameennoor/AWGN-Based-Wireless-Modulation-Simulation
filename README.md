@@ -32,13 +32,13 @@ The results clearly demonstrate the trade-off between **spectral efficiency** an
 
 This principle forms the foundation of **Adaptive Modulation and Coding (AMC)** techniques used in modern wireless technologies such as LTE, 5G, and Wi-Fi systems, where modulation levels are dynamically adjusted according to channel conditions.
 ## Technologies Used
--Python
--NumPy
--Matplotlib
--SciPy
+- Python
+- NumPy
+- Matplotlib
+- SciPy
 ## Learning Outcomes
--Understanding digital modulation techniques
--BER analysis over AWGN channels
--Comparison of theoretical and simulated results
--Impact of SNR on communication reliability
--Spectral efficiency versus error performance trade-offs
+- Understanding digital modulation techniques
+- BER analysis over AWGN channels
+- Comparison of theoretical and simulated results
+- Impact of SNR on communication reliability
+- Spectral efficiency versus error performance trade-offs
